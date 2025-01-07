@@ -40,9 +40,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/afaq-arif45/)
+- **Portfolio**: [Portfolio Website](https://mafaqarif.com/)
+- **Email**: [Afaqarif45@gmail.com](mailto:afaqarif45@gmail.com)
 
 ---
 
