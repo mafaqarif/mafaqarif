@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 
 ## 🚀 About Me
 - 🌟 **Expertise**: Full Stack Development, Microservices, RESTful APIs, DevOps processes
-- 🎓 **Education**: [Your educational background here, e.g., "Master's in Computer Science"]
+- 🎓 **Education**: ["Master's in Computer Science"]
 - 💼 **Current Goals**: 
   - Short-term: Master DevOps processes and secure a role in airport operations or airline management.
   - Long-term: Transition into senior leadership roles or become a Solution Architect at a FAANG company.
@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 
 ## 🌟 Featured Projects
 
-### [📘 Learning Management System (LMS)](https://github.com/your-lms-repo)
-- Built using **Django**, **React**, and **MySQL**
+### [📘 AI SAAS Chatbot](https://github.com/mafaqarif/MERN-SaaS_AI_Bot)
+- Built using **Node**, **React**, and **MongoDB**
 - Features include user management, course enrollment, and progress tracking
-
+<!--
 ### [🛠️ Dealer Diagnostic & Repair Application](https://github.com/your-diagnostic-repo)
 - Developed with **Spring Boot**, **Microservices**, **Apache Kafka**, and **ElasticSearch**
 - Includes features for fault-tolerant and reliable service
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 ### [💊 ePharmacy Project](https://github.com/your-epharmacy-repo)
 - Created microservices for authentication, order, product, and notifications
 - Implemented centralized logging and API documentation with **Swagger**
-
+-->
 ---
 
 ## 📫 Let's Connect
