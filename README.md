@@ -22,6 +22,14 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 - **Other Tools**: Apache Kafka, JUnit, Mockito, Swagger, ELK Stack
 
 ---
+## 📊 LeetCode Stats
+
+### My Profile and Stats
+- **LeetCode Profile**: [Afaq Arif's LeetCode Profile](https://leetcode.com/u/afaqarif/)
+- ![LeetCode Problems Solved](https://img.shields.io/badge/Problems%20Solved-160+-blue?logo=leetcode&style=for-the-badge)
+- ![LeetCode Ranking](https://img.shields.io/badge/Ranking-Top%205%25-orange?logo=leetcode&style=for-the-badge)
+
+---
 
 ## 🌟 Featured Projects
 
@@ -42,6 +50,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 ## 📫 Let's Connect
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/afaq-arif45/)
 - **Portfolio**: [Portfolio Website](https://mafaqarif.com/)
+- **LeetCode**: [Afaq Arif's LeetCode Profile](https://leetcode.com/u/afaqarif/)
 - **Email**: [Afaqarif45@gmail.com](mailto:afaqarif45@gmail.com)
 
 ---
