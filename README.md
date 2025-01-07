@@ -32,11 +32,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 4 
 ### [🛠️ Dealer Diagnostic & Repair Application](https://github.com/your-diagnostic-repo)
 - Developed with **Spring Boot**, **Microservices**, **Apache Kafka**, and **ElasticSearch**
 - Includes features for fault-tolerant and reliable service
-
-### [💊 ePharmacy Project](https://github.com/your-epharmacy-repo)
+-->
+### [💊 ePharmacy Project](https://github.com/mafaqarif/ePharmacy-Microservices)
 - Created microservices for authentication, order, product, and notifications
 - Implemented centralized logging and API documentation with **Swagger**
--->
+
 ---
 
 ## 📫 Let's Connect
